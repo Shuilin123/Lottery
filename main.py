@@ -8,7 +8,6 @@ from pathlib import Path
 import sys
 import webbrowser
 import threading
-# 假设flask_server目录下有app.py文件
 from flask_server.webapp import WebApp  
 
 
